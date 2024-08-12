@@ -1,0 +1,5 @@
+/.venv/
+.env
+base_users.db
+/.idea/
+log.log
